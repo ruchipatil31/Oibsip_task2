@@ -1,0 +1,28 @@
+body {
+  background-color: #a79182;
+  margin: 0 20%;
+  font-family: "Comic Sans MS", Times, serif;
+  font-size: 18px;
+}
+
+#title {
+  text-align: center;
+  text-shadow: 5px 5px 10px rgb(69, 66, 66);
+  font-family: "Comic Sans MS", Times, serif;
+  font-size: 3em;
+}
+
+img {
+  display: block;
+  border: 3px solid rgb(6, 101, 51);
+  border-radius: 15px;
+  width: 100%;
+}
+
+#caption {
+  font-size: 13px;
+  font-style: italic;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
